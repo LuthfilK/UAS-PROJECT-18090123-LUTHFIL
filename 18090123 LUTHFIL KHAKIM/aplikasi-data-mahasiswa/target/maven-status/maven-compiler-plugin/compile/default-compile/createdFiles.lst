@@ -1,0 +1,6 @@
+lab\phb\aplikasidatamahasiswa\entity\DataMahasiswa.class
+lab\phb\aplikasidatamahasiswa\controller\WebController.class
+lab\phb\aplikasidatamahasiswa\services\DataMahasiswaService.class
+lab\phb\aplikasidatamahasiswa\repo\DataMahasiswaRepo.class
+lab\phb\aplikasidatamahasiswa\AplikasiDataMahasiswaApplication.class
+lab\phb\aplikasidatamahasiswa\model\DataMahasiswaModel.class
